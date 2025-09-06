@@ -38,7 +38,10 @@ The Sequential Thinking tool is designed for:
 - Situations where irrelevant information needs to be filtered out
 
 ## Configuration
-
+### Usage with Claude Code
+```
+claude mcp add sequential-thinking npx  "@modelcontextprotocol/server-sequential-thinking"
+```  
 ### Usage with Claude Desktop
 
 Add this to your `claude_desktop_config.json`:
